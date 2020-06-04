@@ -1,0 +1,2 @@
+class Pcgame < ApplicationRecord
+end
